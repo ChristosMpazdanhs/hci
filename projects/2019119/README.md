@@ -43,3 +43,4 @@
 ## Περιγραφή 
 
 Για τις μικρές αλλαγές που πραγματοποίησα στον κώδικα της άσκησης μελέτησα και χρησιμοποίησα τα 2 Link που μας είχατε δώσει (link 1 http://coffeescript.org/#introduction ,link 2 https://en.wikipedia.org/wiki/CoffeeScript#Syntax ) καθώς παρακολούθησα και κάποια tutorials για την CoffeeScript στο youtube ( Link: https://www.youtube.com/watch?v=pbWHx8lyNHY&list=PL399DF0B74063889F) 
+Έτσι πρόσθεσα στον κώδικα όταν κάποιος κάνει κλικ επάνω στο remove να εμφανίζει και ένα μήνυμα στον υπολογιστή του χρήστη.
